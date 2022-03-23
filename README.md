@@ -20,7 +20,7 @@ And I am learning
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=diefesson&hide=contribs&count_private=true&show_icons=true&theme=monokai"> 
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=diefesson&hide=contribs&count_private=true&show_icons=true&theme=monokai"> 
 </div>
 
 Reach out to me
