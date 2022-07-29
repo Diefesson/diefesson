@@ -11,14 +11,6 @@ I have experience on the development of web and mobile applications using
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" >
 </div>
 
-And I am learning
-
-<div>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" >
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" >
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
-</div>
-
 <div align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=diefesson&hide=contribs&count_private=true&show_icons=true&theme=monokai"> 
 </div>
