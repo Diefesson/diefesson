@@ -1,21 +1,28 @@
-# Hi 👋, I am Diefesson
+# Olá 👋, Eu sou Diefesson
 
-I am Computer Science student at Universidade Federal do Ceará that loves to learn about programming and software engineering related topics.
+Sou estudante de Ciências da Computação na Universide Federal do Ceará de Crateús e adoro aprender sobre programação e engenharia de software.
 
-I have experience on the development of web and mobile applications using
+Tenho experiência no desenvolvimento de aplicações e serviços web.
 
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
-  <img src="https://img.shields.io/badge/-HTML%2FCSS%2FJS-orange?style=for-the-badge&logo=Html5&logoColor=white" >
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" >
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" >
-</div>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+E também tive a oportunidade trabalhar com
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 <div align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=diefesson&hide=contribs&count_private=true&show_icons=true&theme=monokai"> 
 </div>
-
-Reach out to me
 
 <div>
   <a href="mailto:diefesson.so@gmail.com">
