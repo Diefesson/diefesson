@@ -7,8 +7,6 @@ My previous jobs include:
 - Mobile and server backend development for a edge based AI solution for fall detection at Huawei 
 - Development and mantainance on both frontend and backend for web applications at UFC - Universidade Federal do Ceará 
 
-Tenho experiência no desenvolvimento de aplicações e serviços web. Algumas das tecnologias que tenho experiência:
-
 Some of languages and technologies I am familiar with:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
